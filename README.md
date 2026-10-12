@@ -2,7 +2,7 @@
 
 Business systems developer and accountant. I build custom **Odoo** modules, automate accounting work, and make apps for phone and PC.
 
-Since September 2025 I run Odoo 19 Enterprise and the accounting at **Sokoon Rental House**, a camera and media equipment rental company in Damascus. Every module below is in production there.
+Since September 2025 I run Odoo 19 Enterprise and the accounting at **Sokoon Rental House**, a camera and media equipment rental company in Damascus. Every module below is in production there. The smaller modules are open-source; Rentory is closed-source.
 
 🌐 [blasedoesit.com](https://blasedoesit.com) · ✉️ kosai@blasedoesit.com · 📅 [Book a 15 min call](https://cal.com/kosai/15min)
 
@@ -10,13 +10,13 @@ Since September 2025 I run Odoo 19 Enterprise and the accounting at **Sokoon Ren
 
 #### Odoo modules (Odoo 19)
 
-| Repo | What it does |
+| Project | What it does |
 |---|---|
-| [**odoo-rentory**](https://github.com/Master7Pineapple/odoo-rentory) | Full rental and asset management app: orders, availability per serial, barcode pickup and return, deposits, late fees, invoicing, fixed asset link, Arabic PDF documents. |
-| [**odoo-arabic-invoices-vouchers**](https://github.com/Master7Pineapple/odoo-arabic-invoices-vouchers) | Arabic invoices and receipt/payment vouchers printed straight from Odoo, with amounts written in correct Arabic words. |
-| [**odoo-attendance-shift-guard**](https://github.com/Master7Pineapple/odoo-attendance-shift-guard) | GPS geofence check-in, personal shifts, reminders and overtime approval on top of Odoo Attendances. |
-| [**odoo-rental-revenue-analytics**](https://github.com/Master7Pineapple/odoo-rental-revenue-analytics) | Most rented products and top customer reports for Odoo Rental, built on SQL views. |
-| [**odoo-rental-customer-discount**](https://github.com/Master7Pineapple/odoo-rental-customer-discount) | Fixed per-customer discounts applied automatically to rental orders. |
+| **Rentory** · closed-source, [details](https://blasedoesit.com/projects/rentory/) | Full rental and asset management app: orders, availability per serial, barcode pickup and return, deposits, late fees, invoicing, fixed asset link, Arabic PDF documents. |
+| [**odoo-arabic-invoices-vouchers**](https://github.com/Master7Pineapple/odoo-arabic-invoices-vouchers) · open-source | Arabic invoices and receipt/payment vouchers printed straight from Odoo, with amounts written in correct Arabic words. |
+| [**odoo-attendance-shift-guard**](https://github.com/Master7Pineapple/odoo-attendance-shift-guard) · open-source | GPS geofence check-in, personal shifts, reminders and overtime approval on top of Odoo Attendances. |
+| [**odoo-rental-revenue-analytics**](https://github.com/Master7Pineapple/odoo-rental-revenue-analytics) · open-source | Most rented products and top customer reports for Odoo Rental, built on SQL views. |
+| [**odoo-rental-customer-discount**](https://github.com/Master7Pineapple/odoo-rental-customer-discount) · open-source | Fixed per-customer discounts applied automatically to rental orders. |
 
 Write-ups with before/after and screenshots: [blasedoesit.com/#work](https://blasedoesit.com/#work)
 
