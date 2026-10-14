@@ -1,8 +1,8 @@
 ### Hi, I'm Kosai (Blase)
 
-Business systems developer and accountant. I build custom **Odoo** modules, automate accounting work, and make apps for phone and PC.
+Business systems developer. I build custom **Odoo** modules, automate the manual work in a business, and make apps for phone and PC.
 
-Since September 2025 I run Odoo 19 Enterprise and the accounting at **Sokoon Rental House**, a camera and media equipment rental company in Damascus. Every module below is in production there. The smaller modules are open-source; Rentory is closed-source.
+Since September 2025 I run the Odoo 19 Enterprise system at **Sokoon Rental House**, a camera and media equipment rental company in Damascus. Every module below is in production there. The smaller modules are open-source; Rentory is closed-source.
 
 🌐 [blasedoesit.com](https://blasedoesit.com) · ✉️ kosai@blasedoesit.com · 📅 [Book a 15 min call](https://cal.com/kosai/15min)
 
@@ -30,6 +30,6 @@ Write-ups with before/after and screenshots: [blasedoesit.com/#work](https://bla
 
 #### Tools
 
-Python · Odoo (ORM, OWL, QWeb) · PostgreSQL · JavaScript · C / C++ · HTML / CSS · Odoo Accounting
+Python · Odoo (ORM, OWL, QWeb) · PostgreSQL · JavaScript · C / C++ · HTML / CSS
 
 Working in Arabic and English, UTC+3.
