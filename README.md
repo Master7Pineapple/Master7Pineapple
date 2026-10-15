@@ -1,6 +1,6 @@
 ### Hi, I'm Kosai (Blase)
 
-Business systems developer. I build custom **Odoo** modules, automate the manual work in a business, and make apps for phone and PC.
+Business systems developer. I build custom **Odoo** modules, automate the manual work in a business, and make apps for phone and desktop.
 
 Since September 2025 I run the Odoo 19 Enterprise system at **Sokoon Rental House**, a camera and media equipment rental company in Damascus. Every module below is in production there. The smaller modules are open-source; Rentory is closed-source.
 
